@@ -1,0 +1,19 @@
+{
+  "name": "npmmod",
+  "version": "1.0.0",
+  "description": "xyz",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Sonika",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.20",
+    "validator": "^13.9.0"
+  }
+}
